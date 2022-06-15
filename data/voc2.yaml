@@ -1,0 +1,8 @@
+train: D:/1xiaomaisui/yolov5-6.1/data/train.txt
+val: D:/1xiaomaisui/yolov5-6.1/data/val.txt
+
+
+# Classes
+nc: 1  # number of classes
+names: ['wheat']  # class names
+
